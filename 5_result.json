@@ -1,0 +1,690 @@
+[
+    {
+        "productId": "40078771",
+        "name": "PS5 игра Bandai Namco Elden Ring русские субтитры",
+        "nameTranslit": "ps5-igra-bandai-namco-elden-ring-russkie-subtitry",
+        "productType": "MEDI",
+        "materialCisNumber": "40078771",
+        "materialSource": "ERP",
+        "modelName": "Elden Ring русские субтитры",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40078771b.jpg",
+        "brandId": "3289",
+        "brandName": "Bandai Namco",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40078771.jpg",
+            "Pdb/40078771b.jpg",
+            "Pdb/40078771b1.jpg",
+            "Pdb/40078771b10.jpg",
+            "Pdb/40078771b11.jpg",
+            "Pdb/40078771b12.jpg",
+            "Pdb/40078771b2.jpg",
+            "Pdb/40078771b3.jpg",
+            "Pdb/40078771b4.jpg",
+            "Pdb/40078771b5.jpg",
+            "Pdb/40078771b6.jpg",
+            "Pdb/40078771b7.jpg",
+            "Pdb/40078771b8.jpg",
+            "Pdb/40078771b9.jpg",
+            "Pdb/40078771s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "стандартное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "Приключения",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "16+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "английский",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "25.02.2022",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 6999,
+        "item_sale_Price": 5599,
+        "item_bonus": null
+    },
+    {
+        "productId": "40074578",
+        "name": "PS5 игра Sony Marvel's Человек-Паук: Майлз Моралес",
+        "nameTranslit": "ps5-igra-sony-marvels-chelovek-pauk-mailz-morales",
+        "productType": "MEDI",
+        "materialCisNumber": "40074578",
+        "materialSource": "ERP",
+        "modelName": "Marvel's Человек-Паук: Майлз Моралес",
+        "rating": {
+            "star": 4.5,
+            "count": 12,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40074578b.jpg",
+        "brandId": "1",
+        "brandName": "Sony",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40074578.jpg",
+            "Pdb/40074578b.jpg",
+            "Pdb/40074578b1.jpg",
+            "Pdb/40074578b2.jpg",
+            "Pdb/40074578b3.jpg",
+            "Pdb/40074578b4.jpg",
+            "Pdb/40074578b5.jpg",
+            "Pdb/40074578s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "стандартное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "Приключения",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "18+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "русский",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "12.11.2020",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 4299,
+        "item_sale_Price": 3399,
+        "item_bonus": null
+    },
+    {
+        "productId": "40076281",
+        "name": "PS5 игра EA Battlefield 2042",
+        "nameTranslit": "ps5-igra-ea-battlefield-2042",
+        "productType": "MEDI",
+        "materialCisNumber": "40076281",
+        "materialSource": "ERP",
+        "modelName": "Battlefield 2042",
+        "rating": {
+            "star": 2.3333333333333335,
+            "count": 3,
+            "percent": 41
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40076281b.jpg",
+        "brandId": "263",
+        "brandName": "EA",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40076281.jpg",
+            "Pdb/40076281b.jpg",
+            "Pdb/40076281b1.jpg",
+            "Pdb/40076281b10.jpg",
+            "Pdb/40076281b11.jpg",
+            "Pdb/40076281b12.jpg",
+            "Pdb/40076281b13.jpg",
+            "Pdb/40076281b14.jpg",
+            "Pdb/40076281b15.jpg",
+            "Pdb/40076281b16.jpg",
+            "Pdb/40076281b2.jpg",
+            "Pdb/40076281b3.jpg",
+            "Pdb/40076281b4.jpg",
+            "Pdb/40076281b5.jpg",
+            "Pdb/40076281b6.jpg",
+            "Pdb/40076281b7.jpg",
+            "Pdb/40076281b8.jpg",
+            "Pdb/40076281b9.jpg",
+            "Pdb/40076281s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "стандартное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "Шутер/Экшн",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "18+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "русский",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "19.11.2021",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 3199,
+        "item_sale_Price": 2199,
+        "item_bonus": null
+    },
+    {
+        "productId": "40075263",
+        "name": "PS5 игра Square Enix Outriders. Day One Edition",
+        "nameTranslit": "ps5-igra-square-enix-outriders-day-one-edition",
+        "productType": "MEDI",
+        "materialCisNumber": "40075263",
+        "materialSource": "ERP",
+        "modelName": "Outriders. Day One Edition",
+        "rating": {
+            "star": 5,
+            "count": 1,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40075263b.jpg",
+        "brandId": "4362",
+        "brandName": "Square Enix",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40075263.jpg",
+            "Pdb/40075263b.jpg",
+            "Pdb/40075263s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "специальное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "Экшн",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "18+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "русский",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "01.04.2021",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 2199,
+        "item_sale_Price": 1599,
+        "item_bonus": null
+    },
+    {
+        "productId": "40075350",
+        "name": "PS5 игра Sony Nioh Collection",
+        "nameTranslit": "ps5-igra-sony-nioh-collection",
+        "productType": "MEDI",
+        "materialCisNumber": "40075350",
+        "materialSource": "ERP",
+        "modelName": "Nioh Collection",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40075350b.jpg",
+        "brandId": "1",
+        "brandName": "Sony",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40075350.jpg",
+            "Pdb/40075350b.jpg",
+            "Pdb/40075350b1.jpg",
+            "Pdb/40075350b2.jpg",
+            "Pdb/40075350b3.jpg",
+            "Pdb/40075350b4.jpg",
+            "Pdb/40075350s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "стандартное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "Экшн",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "18+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "русские субтитры",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "05.02.2021",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 5499,
+        "item_sale_Price": 4399,
+        "item_bonus": null
+    },
+    {
+        "productId": "40075818",
+        "name": "PS5 игра Bandai Namco Scarlet Nexus",
+        "nameTranslit": "ps5-igra-bandai-namco-scarlet-nexus",
+        "productType": "MEDI",
+        "materialCisNumber": "40075818",
+        "materialSource": "ERP",
+        "modelName": "Scarlet Nexus",
+        "rating": {
+            "star": 5,
+            "count": 1,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40075818b.jpg",
+        "brandId": "3289",
+        "brandName": "Bandai Namco",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40075818.jpg",
+            "Pdb/40075818b.jpg",
+            "Pdb/40075818b1.jpg",
+            "Pdb/40075818b10.jpg",
+            "Pdb/40075818b11.jpg",
+            "Pdb/40075818b12.jpg",
+            "Pdb/40075818b13.jpg",
+            "Pdb/40075818b14.jpg",
+            "Pdb/40075818b15.jpg",
+            "Pdb/40075818b16.jpg",
+            "Pdb/40075818b2.jpg",
+            "Pdb/40075818b3.jpg",
+            "Pdb/40075818b4.jpg",
+            "Pdb/40075818b5.jpg",
+            "Pdb/40075818b6.jpg",
+            "Pdb/40075818b7.jpg",
+            "Pdb/40075818b8.jpg",
+            "Pdb/40075818b9.jpg",
+            "Pdb/40075818s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "стандартное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "jRPG",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "16+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "русские субтитры",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "25.06.2021",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 4999,
+        "item_sale_Price": 4199,
+        "item_bonus": null
+    },
+    {
+        "productId": "40076973",
+        "name": "PS5 игра EA NHL 22",
+        "nameTranslit": "ps5-igra-ea-nhl-22",
+        "productType": "MEDI",
+        "materialCisNumber": "40076973",
+        "materialSource": "ERP",
+        "modelName": "NHL 22",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/40076973b.jpg",
+        "brandId": "263",
+        "brandName": "EA",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": true,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "22781",
+            "name": "Игры для PlayStation 5 (PS5)"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/40076973.jpg",
+            "Pdb/40076973b.jpg",
+            "Pdb/40076973b1.jpg",
+            "Pdb/40076973b10.jpg",
+            "Pdb/40076973b11.jpg",
+            "Pdb/40076973b12.jpg",
+            "Pdb/40076973b2.jpg",
+            "Pdb/40076973b3.jpg",
+            "Pdb/40076973b4.jpg",
+            "Pdb/40076973b5.jpg",
+            "Pdb/40076973b6.jpg",
+            "Pdb/40076973b7.jpg",
+            "Pdb/40076973b8.jpg",
+            "Pdb/40076973b9.jpg",
+            "Pdb/40076973s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 50,
+                "name": "Тип издания",
+                "value": "стандартное",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30847301,
+                "name": "Жанр",
+                "value": "Спорт",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 52,
+                "name": "Возрастное ограничение",
+                "value": "12+",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 3,
+                "measure": null
+            },
+            {
+                "id": 51,
+                "name": "Язык",
+                "value": "русские субтитры",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 4,
+                "measure": null
+            },
+            {
+                "id": 118,
+                "name": "Дата релиза",
+                "value": "15.10.2021",
+                "nameDescription": "Дата выхода музыкального альбома, пластинки. Это относится к любой творческой продукции и означает дату её официального поступления в продажу или начала бесплатного распространения.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            }
+        ],
+        "item_base_Price": 6899,
+        "item_sale_Price": 4399,
+        "item_bonus": null
+    }
+]

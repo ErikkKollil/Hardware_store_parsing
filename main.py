@@ -235,8 +235,9 @@ def base_info():
         item_baseprice = item.get('item_base_Price')
         item_saleprice = item.get('item_sale_Price')
         item_bonus = item.get('item_bonus')
-        item_spercent = (int(item_saleprice) / int(item_baseprice)) * 100
-        info_list.append([item_name, item_baseprice, item_saleprice, round(100 - item_spercent, 2), item_bonus])
+        #item_spercent = (int(item_saleprice) / int(item_baseprice)) * 100
+        #round(100 - item_spercent, 2) # Процент скидки
+        info_list.append([item_name, item_baseprice, item_saleprice, item_bonus])
     return info_list
 
 
